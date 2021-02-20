@@ -6,6 +6,6 @@
 
 2. you use snake_info.json to customize your snakes color, head and tail.  That is all.
 
-3. gameobjects.py can be ignored(i think).
+3. gameobjects.py is game objects that you can use to code your snake.
 
 4. snakelogic.py is where you put all the code that makes your snake do whatever you code it to do.
